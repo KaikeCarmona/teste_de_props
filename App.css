@@ -1,0 +1,14 @@
+.dados{
+    width: 50vw;
+    max-width: 500px;
+
+    background-color: gray;
+}
+
+.App{
+    flex-wrap: wrap ;
+    display: flex;
+    /* margin-left: 20%; */
+    margin-left: 10%;
+    margin-right: 10%;
+}
